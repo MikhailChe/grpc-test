@@ -1,0 +1,3 @@
+.vscode
+fractalizer/*
+!fractalizer/*.proto
