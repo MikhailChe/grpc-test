@@ -1,3 +1,7 @@
 .vscode
 fractalizer/*
 !fractalizer/*.proto
+
+.idea
+
+out
