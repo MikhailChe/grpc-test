@@ -5,3 +5,6 @@ fractalizer/*
 .idea
 
 out
+/src/ru/mikhailche/proto/fractalizer/
+/goclient/cmd/client/client
+/target
